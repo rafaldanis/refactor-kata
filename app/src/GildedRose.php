@@ -7,8 +7,6 @@ use App\UpdateQuality\BackstagePasses;
 use App\UpdateQuality\DefaultCalc;
 use App\UpdateQuality\Sulfuras;
 
-//vendor/bin/phpunit
-
 final class GildedRose
 {
 
